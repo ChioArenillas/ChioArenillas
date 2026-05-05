@@ -1,8 +1,9 @@
 ## <Holaa! I’m Chio, 👋/>
 
-<p> I’m a Web Designer & Front-End Developer based in Madrid. I love bringing ideas to life online through sleek, responsive, and user-focused websites. My goal is to create digital experiences that not only look beautiful but also feel intuitive and engaging for every user. </p>
+<p> Frontend Developer (React + TypeScript) with a focus on UX/UI <p>
 
-<p> Coming from a background in Psychology and Art Therapy, along with experience in team and personnel management, I bring a unique perspective to design and development. This mix helps me understand both user behaviour and human-centre design, while also giving me strong organizational and collaborative skills. </p>
+<p> Frontend developer specialized in React and TypeScript, with a background in psychology and UX/UI design. 
+I have built full web applications featuring authentication, API consumption, and state management, applying best practices in development and code organization. My previous experience in team management and client-facing roles allows me to understand real user needs and translate them into functional digital solutions. </p>
 
 
 ## 🌐 Socials:
