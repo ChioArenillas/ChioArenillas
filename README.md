@@ -48,8 +48,8 @@ AI-powered platform that analyzes CVs against job descriptions using AI. Include
 
 **Tech:** Next.js · React · TypeScript · Vitest
 
-🌐 **Live Demo:** https://tu-demo.vercel.app  
-📂 **Repository:** https://github.com/tuusuario/ai-cv-analyzer
+🌐 **Live Demo:** https://hire-flow-plum.vercel.app/
+📂 **Repository:** https://github.com/ChioArenillas/HireFlow
 
 ---
 
@@ -58,8 +58,8 @@ Productivity dashboard with Firebase Authentication, task management, user works
 
 **Tech:** React · TypeScript · Firebase · Vite
 
-🌐 **Live Demo:** https://tu-demo.vercel.app  
-📂 **Repository:** https://github.com/tuusuario/saas-dashboard
+🌐 **Live Demo:** https://fokus.vercel.app/
+📂 **Repository:** https://github.com/ChioArenillas/Fokus
 
 ---
 
