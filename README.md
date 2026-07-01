@@ -26,3 +26,8 @@ I have built full web applications featuring authentication, API consumption, an
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+## 🌱 Currently:
+
+- 📚 Learning backend fundamentals (Node.js & Express, SQL, REST API).
+- 🚀 Building personal projects with React and Next.js.
+- 🎯 Looking for my first Frontend Developer opportunity.
